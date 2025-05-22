@@ -22,7 +22,6 @@ langchain-llm-translator/
 ├── client.py           # Streamlit frontend
 ├── simplellmLCEL.ipynb # Notebook for testing
 ├── requirements.txt    # Python dependencies
-├── .env.example        # Sample env file
 └── README.md
 ```
 
